@@ -1,4 +1,4 @@
-Arduino UNO as a better controller for an air controller.
+Arduino UNO Regulates Air Conditioner
 
 Why do this? The AC temperature is controlled by an economy Honeywell assembly. It has a metal disk which expands or contracts with temperature. It presses the button on a microswitch which powers the AC. This device is slow to turn on and then it runs for too long creating a 4 degree room temperature variance.
 
